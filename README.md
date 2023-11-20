@@ -18,4 +18,8 @@ Include screenshots of your application here.
 1. Clone the repository.
 2. Install the required dependencies:
 
+3. Python
+4. Tkinter
+5. Pillow(PIL)
+
 
